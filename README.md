@@ -93,7 +93,7 @@ This app is frontend-only and meant for demonstration or development purposes. F
 ###
 
 
-#OUTPUT
+# OUTPUT
 
 <img width="1892" height="1028" alt="Image" src="https://github.com/user-attachments/assets/f85d08f8-057f-47eb-b2e8-f26b563f9002" />
 
